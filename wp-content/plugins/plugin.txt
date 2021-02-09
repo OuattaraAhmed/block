@@ -1,0 +1,14 @@
+advanced-wp-reset
+akismet
+autoptimize
+comments-form-facebook
+contact-form-7
+elementor
+google-language-translator
+gtranslate
+one-click-demo-import
+updraftplus
+wordpress-seo
+wp-analystify
+wp-statistics
+wp-stats-manager
